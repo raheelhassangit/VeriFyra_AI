@@ -57,7 +57,7 @@ VeriFyra AI accepts three primary evidence sources:
 1. **Live website:** The application URL to inspect.
 2. **Source-code repository:** The codebase to analyze.
 3. **Documentation and requirements:** Specifications, README files, and other supporting documents.
-
+U
 Three specialized agents independently analyze these sources. A fourth agent correlates their findings, identifies inconsistencies, and generates a unified report.
 
 The platform is designed to provide:
